@@ -6,4 +6,4 @@ app = Flask(__name__)
 @app.route("/")
 def hello_world():
     """A dummy docstring."""
-    return "<p>Hello, World!</p>"
+    return "<p>Hello, Next!</p>"
